@@ -44,3 +44,4 @@ GameShelf is intentionally minimalist: no accounts, no databases, no external de
 ### Docker / GHCR
 * [ ] Add multi-arch builds (amd64 + arm64)
 * [x] *(Planned)* Environment variable configuration
+* [ ] *(Planned)* Documentation for usage, variables, quirks, optional setup steps, etc.
