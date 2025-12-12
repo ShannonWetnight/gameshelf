@@ -8,7 +8,6 @@ GameShelf is intentionally minimalist: no accounts, no databases, no external de
 * [x] *(Planned)* Responsive UI layout
 * [x] *(Planned)* Web frontend embedded using `embed.FS`
 * [ ] Add loading state or skeleton UI while games load
-* [ ] *(Planned)* Improve mobile spacing and responsive typography
 * [ ] Add theme support (drop-in CSS files)
 * [ ] *(Planned)* Add micro-animations for hover and card transitions
 * [ ] Add optional About/Version info box within game card
@@ -30,6 +29,7 @@ GameShelf is intentionally minimalist: no accounts, no databases, no external de
 * [ ] *(Planned)* Add sorting options (name, size, date added)
 * [ ] Add client-side filtering (genre, developer, year)
 * [ ] Add “Recently Added” section
+* [x] Integrate refresh button with GameShelf main header
 
 ### Downloads & File Handling
 * [x] *(Planned)* ZIP download streaming
